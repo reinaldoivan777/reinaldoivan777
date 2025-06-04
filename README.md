@@ -4,7 +4,7 @@ Hello my name is Ivan Reinaldo, working as Frontend Developer for over 8 years.
 
 - 🔭 I’m currently working on [PT. Qoin Digital Indonesia](https://www.qoin.id) as Lead Frontend Developer.
 - 🧑‍💻 I used to work as Frontend Developer at Promogo, [Moselo](https://moselo.com), and [gokomodo](https://gokomodo.com)
-- 🌱 I’m currently learning **React**, **Next Js**, **Remix**, **Web component**, **Module Federation**, **Nx**, **Node JS**, **Bun**, **Tailwind CSS**.
+- 🌱 I’m currently learning **React**, **Next Js**, **Remix**, **Web component**, **Module Federation**, **Nx**, **Node JS**, **Express**, **Nest JS**, **Bun**, **Tailwind CSS**.
 - 📫 How to reach me: [reinaldoivan777@gmail.com](mailto:reinaldoivan777@gmail.com)
 
 
